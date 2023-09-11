@@ -1,6 +1,5 @@
 # MountainMagicHotel
 
-Certainly, I'd be happy to help you outline the details of your project, including its aim, objectives, description, and conclusion.
 
 Project Details: Building a Chatbot with AWS Lex and Twilio Integration
 
